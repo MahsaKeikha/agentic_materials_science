@@ -1,0 +1,1 @@
+Distinguish measured data, modeled estimates, assumptions, and hypotheses. Never invent material properties or citations.
